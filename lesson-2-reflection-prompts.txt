@@ -21,6 +21,7 @@ organized? How would branches help?
 	of the main project
 
 How do the diagrams help you visualize the branch structure?
+	the diagrams make it easy to determine the commits that are located on each branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
