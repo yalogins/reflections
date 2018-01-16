@@ -31,4 +31,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When trying out experimental features, when starting development on a new version of the code.
